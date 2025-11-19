@@ -17,4 +17,4 @@ Arduino Library:<br>
 BH1750 by Christopher Laws
 
 # Reason for this project
-I came up with this idea to figure out if sitting by a window could offer simular effects as being outside and eventually calcuate how much Vitamin D someone is getting in a length of time. This project is a first step/proof of concept for determining if the person using this was outside, inside, or inside by a window, and how much UV they were exposed to. I felt this was important because the sun provides many necessary health benefits. 
+I came up with this idea to figure out if sitting by a window could offer simular effects as being outside and eventually calcuate how much vitamin D someone is getting in a length of time. This project is a first step/proof of concept for determining if the person using this was outside, inside, or inside by a window, and how much UV they were exposed to. I felt this was important because the sun provides many necessary health benefits. 
