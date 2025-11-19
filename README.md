@@ -1,8 +1,8 @@
 # UV-Light-Timer
-This project uses the results from a UV and light sensor to determine how long you spent outside, inside, or inside by a window.<br> 
+This project uses the results from a UV and light sensor to determine how long you spent outside, inside, or inside by a window. A summary report will also be displayed at the end. It uses the UV index and time to determine what percentage of your daily vitamin D was produced along with the risk of sunburn.<br> 
 
-When the button is pressed, the LED will turn on to indicate that the timer has started, and the sensors will start recording values. After each reading, a new average will be calculated for both the light and UV values. Once the button is pressed again, the LED will turn off. Information regarding the final averages for the light level and UV values, as well as how long you were outside, inside, or inside by a window, will be displayed.<br>
-A summary report will also be displayed at the end. It uses the UV index and time to determine what percentage of your daily vitamin D was produced along with the risk of sunburn. 
+When the button is pressed, the LED will turn on to indicate that the timer has started, and the sensors will start recording values. After each reading, a new average will be calculated for both the light and UV values. Once the button is pressed again, the LED will turn off. Information regarding the final averages for the light level and UV values, how long you were outside, inside, or inside by a window, and the summary report will be displayed.<br>
+ 
 
 # Hardware
 Arduino board (I have an Arduino UNO)<br>
